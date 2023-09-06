@@ -1,0 +1,10 @@
+.banner-icon-container {
+    max-width: 200px;
+    height: inherit;
+    text-align: center;
+
+}
+
+.banner-icon {
+    margin-bottom: 15px;
+}

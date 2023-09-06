@@ -1,0 +1,63 @@
+.login-outer-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.login-container {
+    /* background-color: yellow; */
+    width: 350px;
+
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    /* background-color: orange; */
+    gap: 15px;
+    width: inherit;
+}
+
+.login-form input {
+    height: 55px;
+    width: inherit;
+    padding: 0 10px;
+    outline: none;
+    border: 1px solid lightgray;
+}
+
+.login-title {
+    text-align: center;
+    padding: 15px 0;
+    font-size: 24px;
+    font-weight: normal;
+}
+
+.login-form button {
+    height: 55px;
+    width: inherit;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.signup-cta-link {
+    text-align: end;
+    font-size: 12px;
+}
+
+.login-logo-container {
+    /* background-color: red; */
+    padding: 10px 0;    
+    
+}
+
+.cozynight-moon-logo {
+    /* background-color: orange; */
+    display: block;
+    margin: auto;
+    width: 100px;
+
+}
+

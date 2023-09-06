@@ -1,0 +1,14 @@
+
+.footer-small-banner-container {
+    padding: 50px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 60px;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.img-logo {
+    width: 100%;
+}
